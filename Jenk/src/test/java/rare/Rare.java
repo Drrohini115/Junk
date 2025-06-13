@@ -4,9 +4,9 @@ import java.io.Console;
 
 import org.testng.annotations.Test;
 
-public class Rare_Test {
+public class Rare {
 	@Test
-	public void rarer_Test()
+	public void rarer()
 	{
 		System.out.println("hellooo...");
 	}
