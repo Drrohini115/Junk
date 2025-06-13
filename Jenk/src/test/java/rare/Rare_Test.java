@@ -8,6 +8,6 @@ public class Rare_Test {
 	@Test
 	public void rarer_Test()
 	{
-		System.out.println("hi...");
+		System.out.println("hellooo...");
 	}
 }
